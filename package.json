@@ -16,6 +16,7 @@
   "files": [
     "SKILL.md",
     "README.md",
+    "README.en.md",
     "agents",
     "scripts",
     "bin"
