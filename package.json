@@ -18,6 +18,8 @@
     "README.md",
     "README.en.md",
     "agents",
+    "adapters",
+    "references",
     "scripts",
     "bin"
   ],
