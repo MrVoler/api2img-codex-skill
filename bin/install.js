@@ -97,7 +97,7 @@ Install:
   npx api2img --print-plan
 
 Configure:
-  npx api2img configure --base-url https://your-relay.example.com
+  npx api2img configure --base-url <your relay API base URL>
   npx api2img configure --update-key
   npx api2img configure --clear
   npx api2img doctor
